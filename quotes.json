@@ -1,13 +1,19 @@
 {
-  "exportedAt": "2026-04-16T06:17:24.980Z",
-  "lastUpdated": 1775810525594,
-  "totalQuotes": 4223,
-  "totalBooks": 2,
+  "books": [
+    {
+      "id": "mnmjqxcnhuyn",
+      "name": "Con Đường Sống"
+    },
+    {
+      "id": "mnqqa3vhcl09",
+      "name": "Vòng Đọc Sách"
+    }
+  ],
   "quotes": [
     {
       "id": "mnmlytvtcfx1",
       "title": "Đức tin là điều kiện để sống tốt.",
-      "body": "Để con người có thể sống tốt, họ cần biết mình phải làm gì và không được làm gì. Muốn biết được điều đó, cần phải có đức tin. Đức tin là sự hiểu biết về bản chất con người và mục đích sống của họ trên thế gian này. Và đức tin như thế đã từng tồn tại và vẫn đang tồn tại nơi tất cả những người có lý trí.",
+      "body": "Để con người có thể sống tốt, họ cần biết mình phải làm gì và không được làm gì. Muốn biết được điều đó, cần phải có đức tin. \n\nĐức tin là sự hiểu biết về bản chất con người và mục đích sống của họ trên thế gian này. Và đức tin như thế đã từng tồn tại và vẫn đang tồn tại nơi tất cả những người có lý trí.",
       "tags": "",
       "book": "mnmjqxcnhuyn",
       "created": 1775444756681,
@@ -42233,16 +42239,6 @@
       "book": "mnqqa3vhcl09",
       "created": 1775810525594,
       "updated": 1775810525594
-    }
-  ],
-  "books": [
-    {
-      "id": "mnmjqxcnhuyn",
-      "name": "Con Đường Sống"
-    },
-    {
-      "id": "mnqqa3vhcl09",
-      "name": "Vòng Đọc Sách"
     }
   ]
 }
